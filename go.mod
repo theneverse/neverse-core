@@ -1,4 +1,4 @@
-module github.com/meshplus/bitxhub-core
+module github.com/theneverse/neverse-core
 
 go 1.13
 
