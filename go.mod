@@ -20,6 +20,7 @@ require (
 	github.com/libp2p/go-libp2p-core v0.5.6
 	github.com/looplab/fsm v0.2.0
 	github.com/magiconair/properties v1.8.4 // indirect
+	github.com/meshplus/bitxhub-kit v1.2.1-0.20210902085548-07f4fa85bfc9 // indirect
 	github.com/miekg/pkcs11 v1.0.3 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/pelletier/go-toml v1.8.1 // indirect
@@ -34,7 +35,7 @@ require (
 	github.com/sykesm/zap-logfmt v0.0.4 // indirect
 	github.com/theneverse/go-lightp2p v0.0.0-20220903065817-d780be311b10
 	github.com/theneverse/neverse-kit v0.0.0-20220903070058-cf115e048a59
-	github.com/theneverse/neverse-model v0.0.0-20220903073331-4803e1f64fd1
+	github.com/theneverse/neverse-model v0.0.0-20220903075257-56781fc372d4
 	go.uber.org/atomic v1.7.0
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect

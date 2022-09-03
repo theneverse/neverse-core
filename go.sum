@@ -996,6 +996,8 @@ github.com/theneverse/neverse-model v0.0.0-20220903070526-7c85e2ced116 h1:TlcBbt
 github.com/theneverse/neverse-model v0.0.0-20220903070526-7c85e2ced116/go.mod h1:Iyy+c1XxBUboyxwhQjhQgEdX2AC/BLDR5slsPKAEp00=
 github.com/theneverse/neverse-model v0.0.0-20220903073331-4803e1f64fd1 h1:+9DEEUkmktU2ohmYXUoVHlyVsgHsnPs3KsQ+Hbc20Es=
 github.com/theneverse/neverse-model v0.0.0-20220903073331-4803e1f64fd1/go.mod h1:cCbNFBqjMxIeQaa1evLdswu0GqmwTv1n9XBVNKL6Juk=
+github.com/theneverse/neverse-model v0.0.0-20220903075257-56781fc372d4 h1:0U6GyaEKdrA4v/r++PRJhp9vwaJW55AzzI7/YrKHJdg=
+github.com/theneverse/neverse-model v0.0.0-20220903075257-56781fc372d4/go.mod h1:zPqwysEAs7pDllyEoSTTQ4jcR/QPiO+9SEInsowgbJE=
 github.com/tinylib/msgp v1.0.2/go.mod h1:+d+yLhGm8mzTaHzB+wgMYrodPfmZrzkirds8fDWklFE=
 github.com/tklauser/go-sysconf v0.3.5 h1:uu3Xl4nkLzQfXNsWn15rPc/HQCJKObbt1dKJeWp3vU4=
 github.com/tklauser/go-sysconf v0.3.5/go.mod h1:MkWzOF4RMCshBAMXuhXJs64Rte09mITnppBXY/rYEFI=
