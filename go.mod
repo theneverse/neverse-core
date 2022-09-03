@@ -34,7 +34,7 @@ require (
 	github.com/sykesm/zap-logfmt v0.0.4 // indirect
 	github.com/theneverse/go-lightp2p v0.0.0-20220903065817-d780be311b10
 	github.com/theneverse/neverse-kit v0.0.0-20220903070058-cf115e048a59
-	github.com/theneverse/neverse-model v0.0.0-20220903070526-7c85e2ced116
+	github.com/theneverse/neverse-model v0.0.0-20220903073331-4803e1f64fd1
 	go.uber.org/atomic v1.7.0
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
