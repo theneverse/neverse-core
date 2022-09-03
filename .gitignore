@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+.vscode
+
+node_modules
+cover.out
+coverage.out
+mock_*/
+!mock_validator
+!mock_appchainMgr
+coverage.txt
