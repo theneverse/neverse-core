@@ -11,7 +11,7 @@ import (
 	"github.com/hyperledger/fabric/common/cauthdsl"
 	"github.com/hyperledger/fabric/msp"
 	"github.com/hyperledger/fabric/protoutil"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 const (

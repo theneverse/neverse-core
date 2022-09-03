@@ -1,7 +1,7 @@
 package blame
 
 import (
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/message"
 	. "gopkg.in/check.v1"
 )
 

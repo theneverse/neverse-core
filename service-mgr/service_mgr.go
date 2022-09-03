@@ -8,8 +8,8 @@ import (
 
 	"github.com/iancoleman/orderedmap"
 	"github.com/looplab/fsm"
-	"github.com/meshplus/bitxhub-core/boltvm"
-	"github.com/meshplus/bitxhub-core/governance"
+	"github.com/theneverse/neverse-core/boltvm"
+	"github.com/theneverse/neverse-core/governance"
 	"github.com/sirupsen/logrus"
 )
 

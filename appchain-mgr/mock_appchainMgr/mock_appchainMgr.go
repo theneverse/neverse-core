@@ -8,8 +8,8 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	appchain_mgr "github.com/meshplus/bitxhub-core/appchain-mgr"
-	governance "github.com/meshplus/bitxhub-core/governance"
+	appchain_mgr "github.com/theneverse/neverse-core/appchain-mgr"
+	governance "github.com/theneverse/neverse-core/governance"
 )
 
 // MockAppchainMgr is a mock of AppchainMgr interface.

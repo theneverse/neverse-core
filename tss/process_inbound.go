@@ -9,11 +9,11 @@ import (
 	"sync"
 
 	btss "github.com/binance-chain/tss-lib/tss"
-	"github.com/meshplus/bitxhub-core/tss/blame"
-	"github.com/meshplus/bitxhub-core/tss/cache"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
-	"github.com/meshplus/bitxhub-core/tss/message"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-core/tss/blame"
+	"github.com/theneverse/neverse-core/tss/cache"
+	"github.com/theneverse/neverse-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/message"
+	"github.com/theneverse/neverse-model/pb"
 	"github.com/sirupsen/logrus"
 )
 

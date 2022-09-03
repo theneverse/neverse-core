@@ -1,6 +1,6 @@
 package agency
 
-import "github.com/meshplus/bitxhub-model/pb"
+import "github.com/theneverse/neverse-model/pb"
 
 type PierHA interface {
 	Start() error

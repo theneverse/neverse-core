@@ -3,7 +3,7 @@ package cache
 import (
 	"sync"
 
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/message"
 )
 
 // LocalCacheItem used to cache the unconfirmed broadcast message

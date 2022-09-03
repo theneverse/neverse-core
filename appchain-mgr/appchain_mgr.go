@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/looplab/fsm"
-	"github.com/meshplus/bitxhub-core/boltvm"
-	g "github.com/meshplus/bitxhub-core/governance"
+	"github.com/theneverse/neverse-core/boltvm"
+	g "github.com/theneverse/neverse-core/governance"
 	"github.com/sirupsen/logrus"
 )
 

@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	btss "github.com/binance-chain/tss-lib/tss"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/message"
 	"github.com/sirupsen/logrus"
 )
 

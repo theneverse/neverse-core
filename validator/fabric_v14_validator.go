@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric/common/policies"
 	mspi "github.com/hyperledger/fabric/msp"
 	"github.com/hyperledger/fabric/protoutil"
-	"github.com/meshplus/bitxhub-core/validator/validatorlib"
+	"github.com/theneverse/neverse-core/validator/validatorlib"
 	"github.com/sirupsen/logrus"
 )
 

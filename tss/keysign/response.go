@@ -1,8 +1,8 @@
 package keysign
 
 import (
-	"github.com/meshplus/bitxhub-core/tss/blame"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/blame"
+	"github.com/theneverse/neverse-core/tss/conversion"
 )
 
 // Response key sign response

@@ -1,8 +1,8 @@
 package agency
 
 import (
-	"github.com/meshplus/bitxhub-kit/types"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-kit/types"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 type TxsExecutor interface {

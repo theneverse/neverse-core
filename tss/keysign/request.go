@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/libp2p/go-libp2p-core/crypto"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/conversion"
 )
 
 // Request request to sign a message

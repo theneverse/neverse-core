@@ -1,6 +1,6 @@
 package appchain_mgr
 
-import "github.com/meshplus/bitxhub-core/governance"
+import "github.com/theneverse/neverse-core/governance"
 
 //go:generate mockgen -destination mock_appchainMgr/mock_appchainMgr.go -package mock_appchainMgr -source types.go
 type AppchainMgr interface {

@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/meshplus/bitxhub-core/validator/validatorlib"
+	"github.com/theneverse/neverse-core/validator/validatorlib"
 	"github.com/sirupsen/logrus"
 )
 

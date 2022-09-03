@@ -9,8 +9,8 @@ import (
 	btss "github.com/binance-chain/tss-lib/tss"
 	"github.com/libp2p/go-libp2p-core/crypto"
 	"github.com/libp2p/go-libp2p-core/peer"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/message"
 	. "gopkg.in/check.v1"
 )
 

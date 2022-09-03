@@ -10,7 +10,7 @@ import (
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/libp2p/go-libp2p-core/crypto"
 	"github.com/libp2p/go-libp2p-core/peer"
-	ecdsa2 "github.com/meshplus/bitxhub-kit/crypto/asym/ecdsa"
+	ecdsa2 "github.com/theneverse/neverse-kit/crypto/asym/ecdsa"
 )
 
 // TSS PoolPubkey: "crypto/ecdsa".PublicKey (Spe256k1) =================================================================

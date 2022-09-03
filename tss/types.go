@@ -3,9 +3,9 @@ package tss
 import (
 	"time"
 
-	"github.com/meshplus/bitxhub-core/tss/keygen"
-	"github.com/meshplus/bitxhub-core/tss/keysign"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-core/tss/keygen"
+	"github.com/theneverse/neverse-core/tss/keysign"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 //go:generate mockgen -destination mock_tss/mock_tss.go -package mock_tss -source types.go

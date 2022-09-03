@@ -1,7 +1,7 @@
 package agency
 
 import (
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 // Client defines the interface that interacts with appchain

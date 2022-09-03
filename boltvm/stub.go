@@ -1,9 +1,9 @@
 package boltvm
 
 import (
-	"github.com/meshplus/bitxhub-core/validator"
-	"github.com/meshplus/bitxhub-kit/types"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-core/validator"
+	"github.com/theneverse/neverse-kit/types"
+	"github.com/theneverse/neverse-model/pb"
 	"github.com/sirupsen/logrus"
 )
 

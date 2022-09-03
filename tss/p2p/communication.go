@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"sync"
 
-	peer_mgr "github.com/meshplus/bitxhub-core/peer-mgr"
-	"github.com/meshplus/bitxhub-core/tss/message"
-	"github.com/meshplus/bitxhub-model/pb"
+	peer_mgr "github.com/theneverse/neverse-core/peer-mgr"
+	"github.com/theneverse/neverse-core/tss/message"
+	"github.com/theneverse/neverse-model/pb"
 	"github.com/sirupsen/logrus"
 )
 

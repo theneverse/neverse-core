@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/binance-chain/tss-lib/ecdsa/keygen"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/conversion"
 )
 
 const (

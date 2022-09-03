@@ -14,8 +14,8 @@ import (
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/libp2p/go-libp2p-core/crypto"
 	"github.com/libp2p/go-libp2p-core/peer"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
-	ecdsa2 "github.com/meshplus/bitxhub-kit/crypto/asym/ecdsa"
+	"github.com/theneverse/neverse-core/tss/conversion"
+	ecdsa2 "github.com/theneverse/neverse-kit/crypto/asym/ecdsa"
 	. "gopkg.in/check.v1"
 )
 

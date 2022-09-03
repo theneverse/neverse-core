@@ -3,7 +3,7 @@ package agency
 import (
 	"testing"
 
-	"github.com/meshplus/bitxhub-kit/types"
+	"github.com/theneverse/neverse-kit/types"
 	"github.com/stretchr/testify/assert"
 )
 

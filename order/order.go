@@ -2,8 +2,8 @@ package order
 
 import (
 	"github.com/ethereum/go-ethereum/event"
-	"github.com/meshplus/bitxhub-kit/types"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-kit/types"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 //go:generate mockgen -destination mock_order/mock_order.go -package mock_order -source order.go

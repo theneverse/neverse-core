@@ -1,6 +1,6 @@
 package validator
 
-import "github.com/meshplus/bitxhub-kit/types"
+import "github.com/theneverse/neverse-kit/types"
 
 // Engine runs for validation
 //go:generate mockgen -destination mock_validator/mock_engine.go -package mock_validator -source validator.go

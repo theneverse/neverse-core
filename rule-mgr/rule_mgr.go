@@ -6,10 +6,10 @@ import (
 	"strconv"
 
 	"github.com/looplab/fsm"
-	appchain_mgr "github.com/meshplus/bitxhub-core/appchain-mgr"
-	"github.com/meshplus/bitxhub-core/boltvm"
-	"github.com/meshplus/bitxhub-core/governance"
-	"github.com/meshplus/bitxhub-core/validator"
+	appchain_mgr "github.com/theneverse/neverse-core/appchain-mgr"
+	"github.com/theneverse/neverse-core/boltvm"
+	"github.com/theneverse/neverse-core/governance"
+	"github.com/theneverse/neverse-core/validator"
 	"github.com/sirupsen/logrus"
 )
 

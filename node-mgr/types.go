@@ -2,7 +2,7 @@ package node_mgr
 
 import (
 	"github.com/iancoleman/orderedmap"
-	"github.com/meshplus/bitxhub-core/governance"
+	"github.com/theneverse/neverse-core/governance"
 )
 
 //go:generate mockgen -destination mock_nodeMgr/mock_nodeMgr.go -package mock_nodeMgr -source types.go

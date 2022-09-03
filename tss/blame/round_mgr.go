@@ -3,7 +3,7 @@ package blame
 import (
 	"sync"
 
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/message"
 )
 
 // RoundMgr is used to record the confirmation of broadcast messages of each round.

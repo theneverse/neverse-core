@@ -1,6 +1,6 @@
 package service_mgr
 
-import "github.com/meshplus/bitxhub-core/governance"
+import "github.com/theneverse/neverse-core/governance"
 
 //go:generate mockgen -destination mock_serviceMgr/mock_serviceMgr.go -package mock_serviceMgr -source types.go
 type ServiceMgr interface {

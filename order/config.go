@@ -2,10 +2,10 @@ package order
 
 import (
 	"fmt"
-	orderPeerMgr "github.com/meshplus/bitxhub-core/peer-mgr"
-	"github.com/meshplus/bitxhub-kit/crypto"
-	"github.com/meshplus/bitxhub-kit/types"
-	"github.com/meshplus/bitxhub-model/pb"
+	orderPeerMgr "github.com/theneverse/neverse-core/peer-mgr"
+	"github.com/theneverse/neverse-kit/crypto"
+	"github.com/theneverse/neverse-kit/types"
+	"github.com/theneverse/neverse-model/pb"
 	"github.com/sirupsen/logrus"
 )
 

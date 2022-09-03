@@ -1,7 +1,7 @@
 package governance
 
 import (
-	"github.com/meshplus/bitxhub-core/boltvm"
+	"github.com/theneverse/neverse-core/boltvm"
 	"github.com/sirupsen/logrus"
 )
 

@@ -15,11 +15,11 @@ import (
 	"github.com/binance-chain/tss-lib/ecdsa/signing"
 	btss "github.com/binance-chain/tss-lib/tss"
 	"github.com/libp2p/go-libp2p-core/crypto"
-	"github.com/meshplus/bitxhub-core/tss/blame"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
-	"github.com/meshplus/bitxhub-core/tss/keysign"
-	"github.com/meshplus/bitxhub-core/tss/message"
-	"github.com/meshplus/bitxhub-core/tss/storage"
+	"github.com/theneverse/neverse-core/tss/blame"
+	"github.com/theneverse/neverse-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/keysign"
+	"github.com/theneverse/neverse-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/storage"
 	"go.uber.org/atomic"
 )
 

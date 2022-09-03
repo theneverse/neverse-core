@@ -3,7 +3,7 @@ package conversion
 import (
 	"strings"
 
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/message"
 )
 
 // GetBroadcastMessageType gets the broadcast message type of the message

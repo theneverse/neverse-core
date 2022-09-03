@@ -5,7 +5,7 @@ import (
 
 	btss "github.com/binance-chain/tss-lib/tss"
 	mapset "github.com/deckarep/golang-set"
-	"github.com/meshplus/bitxhub-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/message"
 )
 
 // GetUnicastBlame blames the node who cause the timeout in unicast message

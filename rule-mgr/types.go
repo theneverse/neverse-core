@@ -1,7 +1,7 @@
 package rule_mgr
 
 import (
-	"github.com/meshplus/bitxhub-core/governance"
+	"github.com/theneverse/neverse-core/governance"
 )
 
 //go:generate mockgen -destination mock_ruleMgr/mock_ruleMgr.go -package mock_ruleMgr -source types.go

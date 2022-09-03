@@ -8,7 +8,7 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	types "github.com/meshplus/bitxhub-kit/types"
+	types "github.com/theneverse/neverse-kit/types"
 )
 
 // MockEngine is a mock of Engine interface.

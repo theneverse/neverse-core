@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/meshplus/bitxhub-kit/log"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-kit/log"
+	"github.com/theneverse/neverse-model/pb"
 	"github.com/stretchr/testify/require"
 )
 

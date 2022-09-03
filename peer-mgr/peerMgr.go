@@ -3,7 +3,7 @@ package peer_mgr
 import (
 	"github.com/ethereum/go-ethereum/event"
 	"github.com/libp2p/go-libp2p-core/peer"
-	"github.com/meshplus/bitxhub-model/pb"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 type BasicPeerManager interface {

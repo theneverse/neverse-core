@@ -9,11 +9,11 @@ import (
 
 	bkg "github.com/binance-chain/tss-lib/ecdsa/keygen"
 	btss "github.com/binance-chain/tss-lib/tss"
-	"github.com/meshplus/bitxhub-core/tss/blame"
-	"github.com/meshplus/bitxhub-core/tss/conversion"
-	"github.com/meshplus/bitxhub-core/tss/keygen"
-	"github.com/meshplus/bitxhub-core/tss/message"
-	"github.com/meshplus/bitxhub-core/tss/storage"
+	"github.com/theneverse/neverse-core/tss/blame"
+	"github.com/theneverse/neverse-core/tss/conversion"
+	"github.com/theneverse/neverse-core/tss/keygen"
+	"github.com/theneverse/neverse-core/tss/message"
+	"github.com/theneverse/neverse-core/tss/storage"
 	"github.com/sirupsen/logrus"
 )
 

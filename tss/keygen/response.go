@@ -3,8 +3,8 @@ package keygen
 import (
 	"crypto/ecdsa"
 
-	"github.com/meshplus/bitxhub-core/tss/blame"
-	"github.com/meshplus/bitxhub-core/tss/storage"
+	"github.com/theneverse/neverse-core/tss/blame"
+	"github.com/theneverse/neverse-core/tss/storage"
 )
 
 // Response keygen response

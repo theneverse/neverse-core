@@ -2,4 +2,4 @@
 
 ## License
 
-[Apache-2.0](https://github.com/meshplus/bitxhub-core/blob/master/LICENSE)
+[Apache-2.0](https://github.com/theneverse/neverse-core/blob/master/LICENSE)

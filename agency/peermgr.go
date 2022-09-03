@@ -2,9 +2,9 @@ package agency
 
 import (
 	"github.com/libp2p/go-libp2p-core/peer"
-	basicMgr "github.com/meshplus/bitxhub-core/peer-mgr"
-	"github.com/meshplus/bitxhub-model/pb"
-	network "github.com/meshplus/go-lightp2p"
+	network "github.com/theneverse/go-lightp2p"
+	basicMgr "github.com/theneverse/neverse-core/peer-mgr"
+	"github.com/theneverse/neverse-model/pb"
 )
 
 //go:generate mockgen -destination mock_peermgr/mock_peermgr.go -package mock_peermgr -source peermgr.go
